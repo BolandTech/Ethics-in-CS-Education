@@ -1,7 +1,6 @@
 # Ethics 101
 
 
-
 ## What is ethics?
 
 ### Definition
