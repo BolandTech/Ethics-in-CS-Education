@@ -7,4 +7,5 @@
 - [Ethical Theories](https://pagecentertraining.psu.edu/public-relations-ethics/introduction-to-public-relations-ethics/lesson-1/ethical-theories/)
 
 ### Ethics vs. Morals
-- [Ethics vs. Morals](https://www.dictionary.com/e/moral-vs-ethical/#:~:text=While%20they're%20closely%20related,rules%20and%20actions%2C%20or%20behaviors.)
+- [Dictionary.com](https://www.dictionary.com/e/moral-vs-ethical/#:~:text=While%20they're%20closely%20related,rules%20and%20actions%2C%20or%20behaviors.)
+- [Geeks For Geeks](https://www.geeksforgeeks.org/ethics-vs-morality/)
