@@ -10,7 +10,7 @@
   
    [Definition](https://www.canada.ca/en/treasury-board-secretariat/services/values-ethics/code/what-is-ethics.html) 
    
-   For more information about this course [click here](Programming.md)
+   
     
 
 ### Ethical Theories
@@ -20,8 +20,7 @@
    <img width="611" alt="Data Structures 2" src="https://user-images.githubusercontent.com/85142599/181116894-2b1598dd-e3c9-4085-96df-53edc86f4432.png">
 
   
-   [For more information about this course [click here](Data_Structures.md)
+   For more information about this course [click here](Ethics_101.md)
 
-    
 
 ## Helpful Resources
