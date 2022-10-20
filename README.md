@@ -9,7 +9,7 @@ Welcome to my Ethics in CS Education website!!!  My hope is to add information a
 
 ## GitHub Website
 
-[BolandTech Website](https://github.com/BolandTech/Ethics-in-CS-Education)
+[BolandTech Website](https://bolandtech.github.io/Ethics-in-CS-Education/)
 
 
 
