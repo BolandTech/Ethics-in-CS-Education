@@ -21,7 +21,7 @@
 
 ### Ethical Theories
   
-
+[Ethical Theories](https://pagecentertraining.psu.edu/public-relations-ethics/introduction-to-public-relations-ethics/lesson-1/ethical-theories/)
 
 
 ## Helpful Resources
