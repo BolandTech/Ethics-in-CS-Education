@@ -9,3 +9,4 @@
 ### Ethics vs. Morals
 - [Dictionary.com](https://www.dictionary.com/e/moral-vs-ethical/#:~:text=While%20they're%20closely%20related,rules%20and%20actions%2C%20or%20behaviors.)
 - [Geeks For Geeks](https://www.geeksforgeeks.org/ethics-vs-morality/)
+- [Clear IAS](https://www.clearias.com/ethics-definition/)
