@@ -26,4 +26,4 @@
 
 ## Helpful Resources
 
-For more information about this course [click here](Ethics_101.md)
+For more information about this topic [click here](Ethics_101.md)
