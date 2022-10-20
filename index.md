@@ -1,26 +1,29 @@
 # Ethics 101
 
 
+
 ## What is ethics?
 
 ### Definition
 
-   <img width="455" alt="Programming Image" src="https://user-images.githubusercontent.com/85142599/181115455-8f60e1a6-dea4-4dfc-a2b3-f41c95e796b7.png">
+[Definition](https://www.canada.ca/en/treasury-board-secretariat/services/values-ethics/code/what-is-ethics.html) 
+   
+### Ethics vs. Morals
 
-  
-   [Definition](https://www.canada.ca/en/treasury-board-secretariat/services/values-ethics/code/what-is-ethics.html) 
-   
-   
-    
+<img width="445" alt="Screen Shot 2022-10-20 at 3 32 50 PM" src="https://user-images.githubusercontent.com/85142599/197042434-f143615f-0ecb-4ed6-a65c-df8da8b0b381.png">
+
+
+<img width="622" alt="Screen Shot 2022-10-20 at 3 37 21 PM" src="https://user-images.githubusercontent.com/85142599/197042743-8b8e0521-94e1-42e4-b63d-2b3313592f14.png">
+
+
+<img width="524" alt="Screen Shot 2022-10-20 at 3 36 33 PM" src="https://user-images.githubusercontent.com/85142599/197042679-531dc8dd-050d-4911-98bf-da8b6bc2a8ff.png">
+
 
 ### Ethical Theories
-
-   <img width="750" alt="Data Structures 1" src="https://user-images.githubusercontent.com/85142599/181116823-f2bf44e0-8675-41ad-9fe7-92b7df6ed0f6.png">
-   
-   <img width="611" alt="Data Structures 2" src="https://user-images.githubusercontent.com/85142599/181116894-2b1598dd-e3c9-4085-96df-53edc86f4432.png">
-
   
-   For more information about this course [click here](Ethics_101.md)
+
 
 
 ## Helpful Resources
+
+For more information about this course [click here](Ethics_101.md)
